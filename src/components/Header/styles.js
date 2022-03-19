@@ -3,7 +3,7 @@ import styled from 'styled-components'
 export const Image = styled.img`
   width: 250px;
   border-radius: 50%;
-  border: 3px solid #B7C3F3 ;
+  border: 5px solid #B7C3F3 ;
 `
 
 export const Title = styled.h1`
