@@ -16,6 +16,6 @@ export const Title = styled.h1`
 
 export const TitleDecoration = styled.span`
   color: #CA9CC5;
-  font-size: 35px;
+  font-size: 2.5rem;
   font-weight: bolder;
 `
