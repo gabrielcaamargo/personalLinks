@@ -3,7 +3,8 @@ import React from 'react';
 import { faReact, faJs } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
-import { Container , IconsContainer, Title } from './styles';
+import { IconsContainer, Title } from './styles';
+import { Container } from '../../components/themes/global' 
 
 export default function Stacks(){
   return(

@@ -1,14 +1,6 @@
 import styled from 'styled-components'
 
-export const Container = styled.div`
-  background-color: #B7C3F3;
-  border-radius: 15px;
-  padding: 2px 7.5rem;
-  margin-top: 15px;
-  display: flex;
-  flex-direction: column;
-  text-align: center;
-`
+
 
 export const Title = styled.h2`
   font-size: 26px;  
