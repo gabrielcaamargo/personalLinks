@@ -9,13 +9,13 @@ export const Image = styled.img`
 
 export const Title = styled.h1`
   font-size: 40px;
-  color: #3A4754;
+  color: #98C1D9;
   display: inline;
   margin-bottom: 20px;
 `
 
 export const TitleDecoration = styled.span`
-  color: #B7C3F3;
+  color: #6969B3;
   font-size: 2.5rem;
   font-weight: bolder;
 `

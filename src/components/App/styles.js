@@ -4,9 +4,8 @@ export const Container = styled.div`
   display: flex;
   justify-content: center;
   flex-direction: column;
+  text-align: center;
   align-items: center;
-  margin: 24vh  38vw 0;
-  background:rgba(255, 255, 255, 1);
-  border-radius: 15px;
-  padding: 20px;
+  margin: 24vh 12vw 0 12vw;
+
 ` 
