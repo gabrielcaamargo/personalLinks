@@ -4,7 +4,7 @@ I made this whole project using <strong>React</strong> and <strong>Styled Compon
 
 I just made this project earlier, using HTML/CSS. So I decided to recreate it using React. So here it is! :fire:
 
-# How to run this project?
+## How to run this project?
 
 In your terminal, type:
 
@@ -31,6 +31,6 @@ And finally, in your browser, open:
 `
 http://localhost:3000/
 `
-# If you don't want to run the project locally
+## If you don't want to run the project locally
 
 Just open this [link](https://gabcamargo-personal-links.netlify.app) and you'll get there!
