@@ -6,7 +6,7 @@ export default function Header(){
   return(
     <>
       <Image 
-        src="src/images/profile-pic.jpg"
+        src="https://github.com/gabrielcaamargo.png"
         alt="profile photo" 
       />
 
