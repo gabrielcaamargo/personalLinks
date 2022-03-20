@@ -4,18 +4,18 @@ export const Image = styled.img`
   width: 250px;
   border-radius: 50%;
   border: 5px solid #B7C3F3 ;
+  margin-bottom: 10px;
 `
 
 export const Title = styled.h1`
   font-size: 40px;
-  color: #D64478;
+  color: #3A4754;
   display: inline;
-  font-style: italic;
   margin-bottom: 20px;
 `
 
 export const TitleDecoration = styled.span`
-  color: #CA9CC5;
+  color: #B7C3F3;
   font-size: 2.5rem;
   font-weight: bolder;
 `

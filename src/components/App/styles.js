@@ -5,6 +5,8 @@ export const Container = styled.div`
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  margin: 30vh  35vw 0;
-  
-`
+  margin: 24vh  38vw 0;
+  background:rgba(255, 255, 255, 1);
+  border-radius: 15px;
+  padding: 20px;
+` 
